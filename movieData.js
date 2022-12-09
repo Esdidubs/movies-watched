@@ -5503,15 +5503,6 @@ let movieData = [
     runningTime: 110,
   },
   {
-    title: "Most Dangerous Game",
-    yearReleased: 2021,
-    rating: 7,
-    directors: ["Phil Abraham"],
-    countries: ["USA"],
-    movieGenre: ["Action", "Thriller"],
-    runningTime: 127,
-  },
-  {
     title: "MouseHunt",
     yearReleased: 1997,
     rating: 5,
