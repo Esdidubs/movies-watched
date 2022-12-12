@@ -6214,6 +6214,15 @@ let movieData = [
     runningTime: 84,
   },
   {
+    title: "Polar Express",
+    yearReleased: 2004,
+    rating: 7,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Animation", "Adventure", "Comedy", "Family", "Fantasy", "Musical"],
+    runningTime: 100,
+  },
+  {
     title: "Police Academy",
     yearReleased: 1984,
     rating: 6,
@@ -7310,6 +7319,15 @@ let movieData = [
     countries: ["UK"],
     movieGenre: ["Adventure", "Comedy", "Drama", "Fantasy", "Music"],
     runningTime: 93,
+  },
+  {
+    title: "Spirited",
+    yearReleased: 2022,
+    rating: 9,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Comedy", "Family", "Musical"],
+    runningTime: 127,
   },
   {
     title: "Spider-Man",
