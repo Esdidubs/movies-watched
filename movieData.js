@@ -6214,15 +6214,6 @@ let movieData = [
     runningTime: 84,
   },
   {
-    title: "Polar Express",
-    yearReleased: 2004,
-    rating: 7,
-    directors: [""],
-    countries: [""],
-    movieGenre: ["Animation", "Adventure", "Comedy", "Family", "Fantasy", "Musical"],
-    runningTime: 100,
-  },
-  {
     title: "Police Academy",
     yearReleased: 1984,
     rating: 6,
