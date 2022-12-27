@@ -3262,6 +3262,15 @@ let movieData = [
     runningTime: 87,
   },
   {
+    title: "Glass Onion",
+    yearReleased: 2022,
+    rating: 8,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Comedy", "Crime", "Drama"],
+    runningTime: 139,
+  },
+  {
     title: "Godzilla",
     yearReleased: 1998,
     rating: 5,
@@ -5663,6 +5672,15 @@ let movieData = [
     countries: ["USA"],
     movieGenre: ["Comedy"],
     runningTime: 96,
+  },
+  {
+    title: "National Lampoon's Christmas Vacation",
+    yearReleased: 1989,
+    rating: 7,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Comedy"],
+    runningTime: 97,
   },
   {
     title: "National Lampoon's Vacation",
