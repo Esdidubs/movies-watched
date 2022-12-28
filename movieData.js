@@ -1426,6 +1426,15 @@ let movieData = [
     runningTime: 86,
   },
   {
+    title: "Bullet Train",
+    yearReleased: 2022,
+    rating: 9,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Action", "Comedy", "Thriller"],
+    runningTime: 127,
+  },
+  {
     title: "Burke & Hare",
     yearReleased: 2010,
     rating: 6,
@@ -5717,6 +5726,15 @@ let movieData = [
     countries: ["USA"],
     movieGenre: ["Action", "Adventure", "Mystery", "Thriller"],
     runningTime: 131,
+  },
+  {
+    title: "Natural Born Killers",
+    yearReleased: 1994,
+    rating: 4,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Action", "Crime", "Drama"],
+    runningTime: 119,
   },
   {
     title: "Nerve",
