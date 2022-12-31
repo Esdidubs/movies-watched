@@ -301,6 +301,15 @@ let movieData = [
     runningTime: 78,
   },
   {
+    title: "A Knight's Tale",
+    yearReleased: 2001,
+    rating: 8,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Action", "Adventure", "Romance"],
+    runningTime: 132,
+  },
+  {
     title: "A League of Their Own",
     yearReleased: 1992,
     rating: 6,
@@ -8851,6 +8860,15 @@ let movieData = [
     runningTime: 95,
   },
   {
+    title: "The Lake House",
+    yearReleased: 2006,
+    rating: 9,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Drama", "Fantasy", "Romance"],
+    runningTime: 99,
+  },
+  {
     title: "The Land Before Time",
     yearReleased: 1988,
     rating: 6,
@@ -9290,6 +9308,15 @@ let movieData = [
     countries: ["USA"],
     movieGenre: ["Drama"],
     runningTime: 127,
+  },
+  {
+    title: "The Patriot",
+    yearReleased: 2000,
+    rating: 6,
+    directors: [""],
+    countries: [""],
+    movieGenre: ["Action", "Drama", "History"],
+    runningTime: 165,
   },
   {
     title: "The Perks of Being a Wallflower",
