@@ -411,7 +411,7 @@ let movieData = [
   {
     title: "About Time",
     yearReleased: 2013,
-    rating: 9,
+    rating: 10,
     directors: ["Richard Curtis"],
     countries: ["UK"],
     movieGenre: ["Comedy", "Drama", "Fantasy", "Rom-Com", "Romance"],
