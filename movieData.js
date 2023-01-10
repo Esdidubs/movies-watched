@@ -7249,6 +7249,15 @@ let movieData = [
     runningTime: 134,
   },
   {
+    title: "Solo: A Star Wars Story",
+    yearReleased: 2018,
+    rating: 6,
+    directors: ["Ron Howard"],
+    countries: ["USA"],
+    movieGenre: ["Action", "Adventure", "Sci-Fi"],
+    runningTime: 135,
+  },
+  {
     title: "Something Borrowed",
     yearReleased: 2011,
     rating: 6,
