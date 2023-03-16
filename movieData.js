@@ -10345,6 +10345,15 @@ let movieData = [
     runningTime: 131,
   },
   {
+    title: "Vengeance",
+    yearReleased: 2022,
+    rating: 8,
+    directors: ["BJ Novak"],
+    countries: ["USA"],
+    movieGenre: ["Comedy", "Mystery", "Thriller"],
+    runningTime: 107,
+  },
+  {
     title: "Veronica Mars",
     yearReleased: 2014,
     rating: 7,
