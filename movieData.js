@@ -6994,6 +6994,12 @@ let movieData = [
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
+        title: "What Is a Woman?",
+        yearReleased: 2022,
+        rating: "Liked",
+        movieGenre: ["Documentary"],
+    },
+    {
         title: "What Lies Beneath",
         yearReleased: 2000,
         rating: "Meh",
