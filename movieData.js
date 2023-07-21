@@ -1054,6 +1054,12 @@ let movieData = [
         movieGenre: ["Horror", "Thriller"],
     },
     {
+        title: "Cars",
+        yearReleased: 2006,
+        rating: "Liked",
+        movieGenre: ["Adventure", "Animation", "Comedy", "Family", "Sport"],
+    },
+    {
         title: "Cars 2",
         yearReleased: 2011,
         rating: "Meh",
