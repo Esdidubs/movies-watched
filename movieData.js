@@ -304,6 +304,12 @@ let movieData = [
         movieGenre: ["Comedy", "Family", "Fantasy"],
     },
     {
+        title: "Air",
+        yearReleased: 2023,
+        rating: "Loved",
+        movieGenre: ["Sport", "Drama"],
+    },
+    {
         title: "Air Bud",
         yearReleased: 1997,
         rating: "Meh",
