@@ -6472,6 +6472,12 @@ let movieData = [
         movieGenre: ["Action", "Adventure", "Comedy", "Crime"],
     },
     {
+        title: "The Super Mario Bros. Movie",
+        yearReleased: 2023,
+        rating: "Loved",
+        movieGenre: ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
+    },
+    {
         title: "The Switch",
         yearReleased: 2010,
         rating: "Meh",
