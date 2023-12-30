@@ -3166,6 +3166,12 @@ let movieData = [
         movieGenre: ["Crime", "Drama", "Mystery", "Thriller", "Film Noir"],
     },
     {
+        title: "Knight and Day",
+        yearReleased: 2010,
+        rating: "Liked",
+        movieGenre: ["Action", "Adventure", "Comedy"],
+    },
+    {
         title: "Knights of Badassdom",
         yearReleased: 2013,
         rating: "Meh",
@@ -5032,6 +5038,24 @@ let movieData = [
         movieGenre: ["Action", "Adventure", "Science Fiction"],
     },
     {
+        title: "Star Wars: Episode VII - The Force Awakens",
+        yearReleased: 2015,
+        rating: "Liked",
+        movieGenre: ["Action", "Adventure", "Science Fiction"],
+    },
+    {
+        title: "Star Wars: Episode VII - The Last Jedi",
+        yearReleased: 2017,
+        rating: "Liked",
+        movieGenre: ["Action", "Adventure", "Science Fiction"],
+    },
+    {
+        title: "Star Wars: Episode IX - The Rise of Skywalker",
+        yearReleased: 2019,
+        rating: "Liked",
+        movieGenre: ["Action", "Adventure", "Science Fiction"],
+    },
+    {
         title: "Stargate",
         yearReleased: 1994,
         rating: "Liked",
@@ -5306,6 +5330,12 @@ let movieData = [
         yearReleased: 2005,
         rating: "Meh",
         movieGenre: ["Horror"],
+    },
+    {
+        title: "The Amnesia Fortnight Movie",
+        yearReleased: 2021,
+        rating: "Meh",
+        movieGenre: ["Documentary"],
     },
     {
         title: "The Aristocats",
