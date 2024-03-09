@@ -676,6 +676,12 @@ let movieData = [
         movieGenre: ["Animation", "Drama", "Family"],
     },
     {
+        title: "Barbie",
+        yearReleased: 2023,
+        rating: "Liked",
+        movieGenre: ["Comedy", "Adventure", "Fantasy"],
+    },
+    {
         title: "BASEketball",
         yearReleased: 1998,
         rating: "Liked",
@@ -3524,6 +3530,12 @@ let movieData = [
         yearReleased: 2004,
         rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com"],
+    },
+    {
+        title: "Mean Girls",
+        yearReleased: 2024,
+        rating: "Liked",
+        movieGenre: ["Comedy", "Musical"],
     },
     {
         title: "Meet the Fockers",
