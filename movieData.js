@@ -2938,7 +2938,7 @@ let movieData = [
         movieGenre: ["Comedy", "Drama"],
     },
     {
-        title: "Jackass 25",
+        title: "Jackass 2 1/2",
         yearReleased: 2007,
         rating: "Meh",
         movieGenre: ["Comedy", "Documentary"],
@@ -2966,6 +2966,12 @@ let movieData = [
         yearReleased: 2002,
         rating: "Meh",
         movieGenre: ["Action", "Comedy", "Documentary"],
+    },
+    {
+        title: "Jagged",
+        yearReleased: 2021,
+        rating: "Liked",
+        movieGenre: ["Music", "Biography", "Documentary"],
     },
     {
         title: "James and the Giant Peach",
