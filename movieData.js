@@ -922,6 +922,12 @@ let movieData = [
         movieGenre: ["Comedy", "Horror"],
     },
     {
+        title: "Breakfast at Tiffany's",
+        yearReleased: 1961,
+        rating: "Meh",
+        movieGenre: ["Comedy", "Drama", "Romance"],
+    },
+    {
         title: "Bridesmaids",
         yearReleased: 2011,
         rating: "Loved",
@@ -1208,6 +1214,12 @@ let movieData = [
         yearReleased: 1977,
         rating: "Liked",
         movieGenre: ["Drama", "Science Fiction"],
+    },
+    {
+        title: "Cloud Atlas",
+        yearReleased: 2012,
+        rating: "Meh",
+        movieGenre: ["Drama", "Mystery", "Science Fiction", "Thriller"],
     },
     {
         title: "Cloudy with a Chance of Meatballs",
@@ -1880,6 +1892,12 @@ let movieData = [
         yearReleased: 2009,
         rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Comedy", "Family"],
+    },
+    {
+        title: "Fargo",
+        yearReleased: 1996,
+        rating: "Liked",
+        movieGenre: ["Crime", "Thriller"],
     },
     {
         title: "Fast Five",
@@ -4270,6 +4288,12 @@ let movieData = [
         movieGenre: ["Comedy"],
     },
     {
+        title: "Psych: The Movie",
+        yearReleased: 2017,
+        rating: "Liked",
+        movieGenre: ["Comedy", "Crime", "Mystery", "TV Movie"],
+    },
+    {
         title: "Psych 2: Lassie Come Home",
         yearReleased: 2020,
         rating: "Liked",
@@ -4282,10 +4306,10 @@ let movieData = [
         movieGenre: ["Comedy", "Crime", "Mystery", "TV Movie"],
     },
     {
-        title: "Psych: The Movie",
-        yearReleased: 2017,
+        title: "Psycho",
+        yearReleased: 1960,
         rating: "Liked",
-        movieGenre: ["Comedy", "Crime", "Mystery", "TV Movie"],
+        movieGenre: ["Horror", "Mystery", "Thriller"],
     },
     {
         title: "Pulp Fiction",
@@ -5716,10 +5740,22 @@ let movieData = [
         movieGenre: ["Drama", "Rom-Com", "Science Fiction"],
     },
     {
+        title: "The Gold Rush",
+        yearReleased: 1925,
+        rating: "Liked",
+        movieGenre: ["Adventure", "Comedy", "Drama", "Romance", "Western"],
+    },
+    {
         title: "The Goonies",
         yearReleased: 1985,
         rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Family"],
+    },
+    {
+        title: "The Graduate",
+        yearReleased: 1967,
+        rating: "Liked",
+        movieGenre: ["Comedy", "Drama", "Romance"],
     },
     {
         title: "The Grand Budapest Hotel",
@@ -6808,6 +6844,12 @@ let movieData = [
         movieGenre: ["Animation", "Comedy", "Family"],
     },
     {
+        title: "Toy Story 3",
+        yearReleased: 2010,
+        rating: "Liked",
+        movieGenre: ["Adventure", "Animation", "Comedy", "Family", "Fantasy"],
+    },
+    {
         title: "Trading Places",
         yearReleased: 1983,
         rating: "Liked",
@@ -6866,6 +6908,12 @@ let movieData = [
         yearReleased: 1989,
         rating: "Meh",
         movieGenre: ["Action", "Comedy", "Crime", "Family", "Thriller"],
+    },
+    {
+        title: "Turtles All the Way Down",
+        yearReleased: 2024,
+        rating: "Loved",
+        movieGenre: ["Drama", "Mystery", "Romance"],
     },
     {
         title: "Twilight",
