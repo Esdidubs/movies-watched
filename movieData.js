@@ -12,13 +12,13 @@ let movieData = [
     {
         title: "10 Cloverfield Lane",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Horror", "Science Fiction", "Thriller"],
     },
     {
         title: "10 Things I Hate About You",
         yearReleased: 1999,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
@@ -60,7 +60,7 @@ let movieData = [
     {
         title: "17 Again",
         yearReleased: 2009,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com"],
     },
     {
@@ -72,7 +72,7 @@ let movieData = [
     {
         title: "21 Jump Street",
         yearReleased: 2012,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Crime"],
     },
     {
@@ -162,7 +162,7 @@ let movieData = [
     {
         title: "A Beautiful Mind",
         yearReleased: 2001,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Romance"],
     },
     {
@@ -276,7 +276,7 @@ let movieData = [
     {
         title: "About Time",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Fantasy", "Rom-Com", "Romance"],
     },
     {
@@ -306,7 +306,7 @@ let movieData = [
     {
         title: "Air",
         yearReleased: 2023,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Sport", "Drama"],
     },
     {
@@ -336,7 +336,7 @@ let movieData = [
     {
         title: "Aladdin",
         yearReleased: 1992,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Family", "Fantasy", "Musical", "Romance"],
     },
     {
@@ -350,6 +350,12 @@ let movieData = [
         yearReleased: 1951,
         rating: "Meh",
         movieGenre: ["Adventure", "Animation", "Family", "Fantasy"],
+    },
+    {
+        title: "Alien",
+        yearReleased: 1979,
+        rating: "Meh",
+        movieGenre: ["Horror", "Science Fiction"],
     },
     {
         title: "Alita: Battle Angel",
@@ -386,6 +392,12 @@ let movieData = [
         yearReleased: 1999,
         rating: "Liked",
         movieGenre: ["Drama"],
+    },
+    {
+        title: "American Graffiti",
+        yearReleased: 1973,
+        rating: "Disliked",
+        movieGenre: ["Comedy", "Drama"],
     },
     {
         title: "American History X",
@@ -558,7 +570,7 @@ let movieData = [
     {
         title: "Avatar",
         yearReleased: 2009,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Fantasy", "Science Fiction"],
     },
     {
@@ -600,7 +612,7 @@ let movieData = [
     {
         title: "Baby Driver",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Crime"],
     },
     {
@@ -726,7 +738,7 @@ let movieData = [
     {
         title: "Beauty and the Beast",
         yearReleased: 1991,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Animation", "Family", "Fantasy", "Musical", "Romance"],
     },
     {
@@ -900,13 +912,13 @@ let movieData = [
     {
         title: "Bombshell",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "History"],
     },
     {
         title: "Booksmart",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy"],
     },
     {
@@ -930,7 +942,7 @@ let movieData = [
     {
         title: "Bridesmaids",
         yearReleased: 2011,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -978,7 +990,7 @@ let movieData = [
     {
         title: "Bullet Train",
         yearReleased: 2022,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Thriller"],
     },
     {
@@ -1122,7 +1134,7 @@ let movieData = [
     {
         title: "Central Intelligence",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Crime", "Mystery"],
     },
     {
@@ -1134,7 +1146,7 @@ let movieData = [
     {
         title: "Charlie St Cloud",
         yearReleased: 2010,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Rom-Com", "Romance"],
     },
     {
@@ -1164,7 +1176,7 @@ let movieData = [
     {
         title: "Chef",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy"],
     },
     {
@@ -1344,7 +1356,7 @@ let movieData = [
     {
         title: "Cruella",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Crime"],
     },
     {
@@ -1406,6 +1418,12 @@ let movieData = [
         yearReleased: 2018,
         rating: "Liked",
         movieGenre: ["Action", "Adventure", "Comedy"],
+    },
+    {
+        title: "Deadpool & Wolverine",
+        yearReleased: 2024,
+        rating: "Meh",
+        movieGenre: ["Action", "Adventure", "Comedy", "Science Fiction"],
     },
     {
         title: "Death on the Nile",
@@ -1668,7 +1686,7 @@ let movieData = [
     {
         title: "Edward Scissorhands",
         yearReleased: 1990,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Fantasy", "Rom-Com", "Romance"],
     },
     {
@@ -1692,7 +1710,7 @@ let movieData = [
     {
         title: "Elf",
         yearReleased: 2003,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Family", "Fantasy"],
     },
     {
@@ -1794,13 +1812,13 @@ let movieData = [
     {
         title: "Every Day",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Fantasy", "Romance"],
     },
     {
         title: "Everything Everywhere All at Once",
         yearReleased: 2022,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Science Fiction", "Comedy", "Fantasy"],
     },
     {
@@ -1812,7 +1830,7 @@ let movieData = [
     {
         title: "Everything, Everything",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Romance"],
     },
     {
@@ -1920,7 +1938,7 @@ let movieData = [
     {
         title: "Ferris Bueller's Day Off",
         yearReleased: 1986,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com"],
     },
     {
@@ -1932,7 +1950,7 @@ let movieData = [
     {
         title: "Fight Club",
         yearReleased: 1999,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama"],
     },
     {
@@ -2052,7 +2070,7 @@ let movieData = [
     {
         title: "Free Guy",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Action", "Adventure", "Science Fiction"],
     },
     {
@@ -2130,7 +2148,7 @@ let movieData = [
     {
         title: "Game Night",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Crime", "Mystery"],
     },
     {
@@ -2142,7 +2160,7 @@ let movieData = [
     {
         title: "Garden State",
         yearReleased: 2004,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
@@ -2160,7 +2178,7 @@ let movieData = [
     {
         title: "Get Out",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Horror", "Mystery", "Thriller"],
     },
     {
@@ -2184,7 +2202,7 @@ let movieData = [
     {
         title: "Ghost Town",
         yearReleased: 2008,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Fantasy", "Rom-Com", "Romance"],
     },
     {
@@ -2244,7 +2262,7 @@ let movieData = [
     {
         title: "Good Boys",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy"],
     },
     {
@@ -2316,7 +2334,7 @@ let movieData = [
     {
         title: "Groundhog Day",
         yearReleased: 1993,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Fantasy", "Rom-Com", "Romance"],
     },
     {
@@ -2454,13 +2472,13 @@ let movieData = [
     {
         title: "Harry Potter and the Chamber of Secrets",
         yearReleased: 2002,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Fantasy"],
     },
     {
         title: "Harry Potter and the Deathly Hallows: Part 1",
         yearReleased: 2010,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Fantasy"],
     },
     {
@@ -2478,7 +2496,7 @@ let movieData = [
     {
         title: "Harry Potter and the Half-Blood Prince",
         yearReleased: 2009,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Fantasy"],
     },
     {
@@ -2490,7 +2508,7 @@ let movieData = [
     {
         title: "Harry Potter and the Philosopher's Stone",
         yearReleased: 2001,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Fantasy"],
     },
     {
@@ -2670,7 +2688,7 @@ let movieData = [
     {
         title: "Hot Fuzz",
         yearReleased: 2007,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Crime"],
     },
     {
@@ -2742,7 +2760,7 @@ let movieData = [
     {
         title: "I Am Legend",
         yearReleased: 2007,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Science Fiction", "Thriller"],
     },
     {
@@ -2754,7 +2772,7 @@ let movieData = [
     {
         title: "I Love You, Man",
         yearReleased: 2009,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -2796,7 +2814,7 @@ let movieData = [
     {
         title: "Inception",
         yearReleased: 2010,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Science Fiction"],
     },
     {
@@ -2832,7 +2850,7 @@ let movieData = [
     {
         title: "Indie Game: The Movie",
         yearReleased: 2012,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Documentary"],
     },
     {
@@ -2862,7 +2880,7 @@ let movieData = [
     {
         title: "Interstellar",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Drama", "Science Fiction"],
     },
     {
@@ -2892,7 +2910,7 @@ let movieData = [
     {
         title: "Isle of Dogs",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Comedy"],
     },
     {
@@ -2904,13 +2922,13 @@ let movieData = [
     {
         title: "It",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Horror"],
     },
     {
         title: "It Chapter Two",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Fantasy", "Horror"],
     },
     {
@@ -2934,7 +2952,7 @@ let movieData = [
     {
         title: "It's a Disaster",
         yearReleased: 2012,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy"],
     },
     {
@@ -3060,7 +3078,7 @@ let movieData = [
     {
         title: "Jojo Rabbit",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "War"],
     },
     {
@@ -3150,7 +3168,7 @@ let movieData = [
     {
         title: "Kick-Ass",
         yearReleased: 2010,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Crime"],
     },
     {
@@ -3210,7 +3228,7 @@ let movieData = [
     {
         title: "Knives Out",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Crime", "Drama", "Mystery"],
     },
     {
@@ -3288,7 +3306,7 @@ let movieData = [
     {
         title: "Late Night",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
@@ -3302,6 +3320,12 @@ let movieData = [
         yearReleased: 2004,
         rating: "Meh",
         movieGenre: ["Adventure", "Comedy", "Family"],
+    },
+    {
+        title: "Leon: The Professional",
+        yearReleased: 1994,
+        rating: "Liked",
+        movieGenre: ["Action", "Crime", "Drama", "Thriller"],
     },
     {
         title: "Leprechaun",
@@ -3402,7 +3426,7 @@ let movieData = [
     {
         title: "Long Shot",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -3456,19 +3480,19 @@ let movieData = [
     {
         title: "Love Actually",
         yearReleased: 2003,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
         title: "Love, Simon",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
         title: "Luca",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
     },
     {
@@ -3486,7 +3510,7 @@ let movieData = [
     {
         title: "Mad Max: Fury Road",
         yearReleased: 2015,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Science Fiction"],
     },
     {
@@ -3510,7 +3534,7 @@ let movieData = [
     {
         title: "Man Up",
         yearReleased: 2015,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -3612,13 +3636,13 @@ let movieData = [
     {
         title: "Michael Jackson's Thriller",
         yearReleased: 1983,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Horror", "Music"],
     },
     {
         title: "Midnight in Paris",
         yearReleased: 2011,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Fantasy", "Rom-Com", "Romance"],
     },
     {
@@ -3722,6 +3746,12 @@ let movieData = [
         yearReleased: 1975,
         rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Fantasy"],
+    },
+    {
+        title: "Monty Python's Life of Brian'",
+        yearReleased: 1979,
+        rating: "Disliked",
+        movieGenre: ["Comedy"],
     },
     {
         title: "Moonrise Kingdom",
@@ -3888,7 +3918,7 @@ let movieData = [
     {
         title: "Nerve",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Crime", "Mystery"],
     },
     {
@@ -3976,6 +4006,12 @@ let movieData = [
         movieGenre: ["Action", "Comedy", "Thriller"],
     },
     {
+        title: "Oceans",
+        yearReleased: 2009,
+        rating: "Liked",
+        movieGenre: ["Documentary"],
+    },
+    {
         title: "Ocean's 8",
         yearReleased: 2018,
         rating: "Liked",
@@ -3984,7 +4020,7 @@ let movieData = [
     {
         title: "Ocean's Eleven",
         yearReleased: 2001,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Crime", "Thriller"],
     },
     {
@@ -4044,13 +4080,13 @@ let movieData = [
     {
         title: "Paddington",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Family"],
     },
     {
         title: "Palm Springs",
         yearReleased: 2020,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Fantasy", "Mystery", "Romance", "Science Fiction"],
     },
     {
@@ -4092,7 +4128,7 @@ let movieData = [
     {
         title: "Paul",
         yearReleased: 2011,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Science Fiction"],
     },
     {
@@ -4116,7 +4152,7 @@ let movieData = [
     {
         title: "Penguins of Madagascar",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Comedy", "Family"],
     },
     {
@@ -4326,7 +4362,7 @@ let movieData = [
     {
         title: "Raiders of the Lost Ark",
         yearReleased: 1981,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure"],
     },
     {
@@ -4374,7 +4410,7 @@ let movieData = [
     {
         title: "Red Nose Day Actually",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "TV Movie", "Romance"],
     },
     {
@@ -4388,6 +4424,12 @@ let movieData = [
         yearReleased: 2014,
         rating: "Liked",
         movieGenre: ["Documentary"],
+    },
+    {
+        title: "Requiem for a Dream",
+        yearReleased: 2000,
+        rating: "Meh",
+        movieGenre: ["Drama"],
     },
     {
         title: "Resident Evil",
@@ -4656,7 +4698,7 @@ let movieData = [
     {
         title: "Scott Pilgrim vs the World",
         yearReleased: 2010,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Fantasy", "Music", "Romance"],
     },
     {
@@ -4722,7 +4764,7 @@ let movieData = [
     {
         title: "Shaun of the Dead",
         yearReleased: 2004,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Horror"],
     },
     {
@@ -4752,7 +4794,7 @@ let movieData = [
     {
         title: "Shrek",
         yearReleased: 2001,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Comedy", "Fantasy"],
     },
     {
@@ -4812,7 +4854,7 @@ let movieData = [
     {
         title: "Sing Street",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Musical", "Romance"],
     },
     {
@@ -4900,6 +4942,12 @@ let movieData = [
         movieGenre: ["Action", "Adventure", "Sci-Fi"],
     },
     {
+        title: "Some Like It Hot",
+        yearReleased: 1959,
+        rating: "Meh",
+        movieGenre: ["Comedy", "Music", "Romance"],
+    },
+    {
         title: "Something Borrowed",
         yearReleased: 2011,
         rating: "Meh",
@@ -4920,7 +4968,7 @@ let movieData = [
     {
         title: "Sorry to Bother You",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Fantasy", "Science Fiction"],
     },
     {
@@ -4974,7 +5022,7 @@ let movieData = [
     {
         title: "Spirited",
         yearReleased: 2022,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Family", "Musical"],
     },
     {
@@ -5004,7 +5052,7 @@ let movieData = [
     {
         title: "Spider-Man: Into the Spider-Verse",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Animation", "Comedy", "Science Fiction"],
     },
     {
@@ -5178,7 +5226,7 @@ let movieData = [
     {
         title: "Super 8",
         yearReleased: 2011,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Mystery", "Science Fiction", "Thriller"],
     },
     {
@@ -5238,7 +5286,7 @@ let movieData = [
     {
         title: "Swiss Army Man",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Drama", "Fantasy", "Romance"],
     },
     {
@@ -5430,7 +5478,7 @@ let movieData = [
     {
         title: "The Big Sick",
         yearReleased: 2017,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
@@ -5616,7 +5664,7 @@ let movieData = [
     {
         title: "The Edge of Seventeen",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
@@ -5718,7 +5766,7 @@ let movieData = [
     {
         title: "The Fundamentals of Caring",
         yearReleased: 2016,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
@@ -5760,13 +5808,13 @@ let movieData = [
     {
         title: "The Grand Budapest Hotel",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
         title: "The Greatest Beer Run Ever",
         yearReleased: 2022,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Drama", "War"],
     },
     {
@@ -5874,7 +5922,7 @@ let movieData = [
     {
         title: "The Holiday",
         yearReleased: 2006,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -6006,13 +6054,13 @@ let movieData = [
     {
         title: "The Kings of Summer",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
         title: "The Lake House",
         yearReleased: 2006,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Fantasy", "Romance"],
     },
     {
@@ -6102,19 +6150,19 @@ let movieData = [
     {
         title: "The Lord of the Rings: The Fellowship of the Ring",
         yearReleased: 2001,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Fantasy"],
     },
     {
         title: "The Lord of the Rings: The Return of the King",
         yearReleased: 2003,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Fantasy"],
     },
     {
         title: "The Lord of the Rings: The Two Towers",
         yearReleased: 2002,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Fantasy"],
     },
     {
@@ -6162,7 +6210,7 @@ let movieData = [
     {
         title: "The Matrix",
         yearReleased: 1999,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Science Fiction"],
     },
     {
@@ -6174,7 +6222,7 @@ let movieData = [
     {
         title: "The Matrix Resurrections",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Thriller", "Science Fiction"],
     },
     {
@@ -6216,7 +6264,7 @@ let movieData = [
     {
         title: "The Mitchells vs The Machines",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Animation", "Comedy", "Family", "Science Fiction"],
     },
     {
@@ -6318,7 +6366,7 @@ let movieData = [
     {
         title: "The Perks of Being a Wallflower",
         yearReleased: 2012,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Rom-Com"],
     },
     {
@@ -6336,7 +6384,7 @@ let movieData = [
     {
         title: "The Prestige",
         yearReleased: 2006,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Mystery", "Thriller"],
     },
     {
@@ -6360,7 +6408,7 @@ let movieData = [
     {
         title: "The Proposal",
         yearReleased: 2009,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
@@ -6462,7 +6510,7 @@ let movieData = [
     {
         title: "The Secret Life of Walter Mitty",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Adventure", "Comedy", "Drama", "Fantasy"],
     },
     {
@@ -6516,7 +6564,7 @@ let movieData = [
     {
         title: "The Social Dilemma",
         yearReleased: 2020,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Documentary", "Drama"],
     },
     {
@@ -6552,13 +6600,13 @@ let movieData = [
     {
         title: "The Suicide Squad",
         yearReleased: 2021,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Adventure", "Comedy", "Crime"],
     },
     {
         title: "The Super Mario Bros. Movie",
         yearReleased: 2023,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
     },
     {
@@ -6666,7 +6714,7 @@ let movieData = [
     {
         title: "The Way, Way Back",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama"],
     },
     {
@@ -6714,7 +6762,7 @@ let movieData = [
     {
         title: "The World's End",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Comedy", "Science Fiction"],
     },
     {
@@ -6786,7 +6834,7 @@ let movieData = [
     {
         title: "To All the Boys I've Loved Before",
         yearReleased: 2018,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
@@ -6856,6 +6904,12 @@ let movieData = [
         movieGenre: ["Comedy"],
     },
     {
+        title: "Trainspotting",
+        yearReleased: 1996,
+        rating: "Meh",
+        movieGenre: ["Drama"],
+    },
+    {
         title: "Transformers",
         yearReleased: 2007,
         rating: "Liked",
@@ -6912,7 +6966,7 @@ let movieData = [
     {
         title: "Turtles All the Way Down",
         yearReleased: 2024,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Drama", "Mystery", "Romance"],
     },
     {
@@ -6990,7 +7044,7 @@ let movieData = [
     {
         title: "V for Vendetta",
         yearReleased: 2005,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Action", "Fantasy", "Thriller"],
     },
     {
@@ -7050,7 +7104,7 @@ let movieData = [
     {
         title: "Warm Bodies",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Horror", "Rom-Com", "Romance"],
     },
     {
@@ -7104,7 +7158,7 @@ let movieData = [
     {
         title: "What If",
         yearReleased: 2013,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
     },
     {
@@ -7122,7 +7176,7 @@ let movieData = [
     {
         title: "What We Do in the Shadows",
         yearReleased: 2014,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Horror"],
     },
     {
@@ -7272,13 +7326,13 @@ let movieData = [
     {
         title: "Yes Man",
         yearReleased: 2008,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Rom-Com"],
     },
     {
         title: "Yesterday",
         yearReleased: 2019,
-        rating: "Loved",
+        rating: "Liked",
         movieGenre: ["Comedy", "Fantasy", "Musical", "Romance"],
     },
     {
