@@ -1096,6 +1096,12 @@ let movieData = [
         movieGenre: ["Adventure", "Animation", "Comedy", "Family", "Sport"],
     },
     {
+        title: "Cars 3",
+        yearReleased: 2017,
+        rating: "Liked",
+        movieGenre: ["Adventure", "Animation", "Comedy", "Family", "Sport"],
+    },
+    {
         title: "Casper",
         yearReleased: 1995,
         rating: "Liked",
@@ -1624,6 +1630,12 @@ let movieData = [
         movieGenre: ["Comedy", "Family", "Fantasy", "Romance"],
     },
     {
+        title: "Dr Strangelove",
+        yearReleased: 1964,
+        rating: "Disliked",
+        movieGenre: ["Comedy", "War"],
+    },
+    {
         title: "DragonHeart",
         yearReleased: 1996,
         rating: "Meh",
@@ -1850,6 +1862,12 @@ let movieData = [
         yearReleased: 2004,
         rating: "Disliked",
         movieGenre: ["Horror", "Mystery", "Thriller"],
+    },
+    {
+        title: "Eyes Wide Shut",
+        yearReleased: 1999,
+        rating: "Disliked",
+        movieGenre: ["Drama", "Mystery", "Thriller"],
     },
     {
         title: "Face/Off",
@@ -2132,6 +2150,12 @@ let movieData = [
         yearReleased: 1969,
         rating: "Meh",
         movieGenre: ["Family", "Animation", "TV Movie"],
+    },
+    {
+        title: "Full Metal Jacket",
+        yearReleased: 1987,
+        rating: "Meh",
+        movieGenre: ["War", "Drama"],
     },
     {
         title: "GI Jane",
@@ -2468,6 +2492,12 @@ let movieData = [
         yearReleased: 1987,
         rating: "Meh",
         movieGenre: ["Comedy", "Family", "Fantasy"],
+    },
+    {
+        title: "Harry Potter 20th Anniversary",
+        yearReleased: 2022,
+        rating: "Liked",
+        movieGenre: ["Documentary", "Family"],
     },
     {
         title: "Harry Potter and the Chamber of Secrets",
@@ -3646,6 +3676,12 @@ let movieData = [
         movieGenre: ["Comedy", "Fantasy", "Rom-Com", "Romance"],
     },
     {
+        title: "Midsommar",
+        yearReleased: 2019,
+        rating: "Meh",
+        movieGenre: ["Drama", "Horror", "Mystery", "Thriller"],
+    },
+    {
         title: "Mighty Morphin Power Rangers: The Movie",
         yearReleased: 1995,
         rating: "Meh",
@@ -4058,6 +4094,12 @@ let movieData = [
         yearReleased: 2003,
         rating: "Disliked",
         movieGenre: ["Drama", "Horror", "Thriller"],
+    },
+    {
+        title: "Oppenheimer",
+        yearReleased: 2023,
+        rating: "Meh",
+        movieGenre: ["Biography", "Drama", "History"],
     },
     {
         title: "Osmosis Jones",
@@ -4520,6 +4562,12 @@ let movieData = [
         yearReleased: 1985,
         rating: "Meh",
         movieGenre: ["Drama", "Sport"],
+    },
+    {
+        title: "Rogue One: A Star Wars Story",
+        yearReleased: 2016,
+        rating: "Meh",
+        movieGenre: ["Action", "Adventure", "Science Fiction"],
     },
     {
         title: "Role Models",
@@ -5756,6 +5804,12 @@ let movieData = [
         yearReleased: 1981,
         rating: "Meh",
         movieGenre: ["Adventure", "Animation", "Drama", "Family", "Musical"],
+    },
+    {
+        title: "The French Dispatch",
+        yearReleased: 2021,
+        rating: "Disliked",
+        movieGenre: ["Comedy", "Drama", "Romance"],
     },
     {
         title: "The Fugitive",
