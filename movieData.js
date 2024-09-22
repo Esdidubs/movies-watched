@@ -7054,6 +7054,12 @@ let movieData = [
         movieGenre: ["Comedy", "Rom-Com", "Romance"],
     },
     {
+        title: "Uglies",
+        yearReleased: 2024,
+        rating: "Meh",
+        movieGenre: ["Action", "Adventure", "Drama", "Science Fiction", "Fantasy"],
+    },
+    {
         title: "US Marshals",
         yearReleased: 1998,
         rating: "Meh",
