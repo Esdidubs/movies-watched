@@ -802,7 +802,13 @@ let movieData = [
     title: "Beetlejuice",
     yearReleased: 1988,
     rating: "Liked",
-    movieGenre: ["Comedy", "Fantasy"],
+    movieGenre: ["Comedy", "Fantasy", "Horror"],
+  },
+  {
+    title: "Beetlejuice Beetlejuice",
+    yearReleased: 2024,
+    rating: "Meh",
+    movieGenre: ["Comedy", "Fantasy", "Horror"],
   },
   {
     title: "Being John Malkovich",
@@ -3587,6 +3593,12 @@ let movieData = [
     yearReleased: 2003,
     rating: "Liked",
     movieGenre: ["Comedy", "Drama", "Rom-Com", "Romance"],
+  },
+  {
+    title: "Love Hard",
+    yearReleased: 2021,
+    rating: "Liked",
+    movieGenre: ["Comedy", "Romance"],
   },
   {
     title: "Love, Simon",
