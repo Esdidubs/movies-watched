@@ -2262,6 +2262,12 @@ let movieData = [
     movieGenre: ["Action", "Comedy", "Rom-Com", "Thriller"],
   },
   {
+    title: "Getting Lost",
+    yearReleased: 2024,
+    rating: "Liked",
+    movieGenre: ["Documentary"],
+  },
+  {
     title: "Ghost Ship",
     yearReleased: 2002,
     rating: "Disliked",
